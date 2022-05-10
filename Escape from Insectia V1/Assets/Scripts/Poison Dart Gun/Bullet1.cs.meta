@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fb3c72a50ba8dda45af7092c619fde18
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - fireBulletSFX: {instanceID: 0}
+  - impactEffect: {fileID: 9166778907775235184, guid: ff5346d2e12d08f42a98725d35a7b039,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

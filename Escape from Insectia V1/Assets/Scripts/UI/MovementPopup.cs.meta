@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: eb9f8ceb8ff4d464ba3ef5e368342dc7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - popupSFX: {fileID: 8300000, guid: db04c3fbeec042f47ba06109388e138a, type: 3}
+  - hideSFX: {fileID: 8300000, guid: f2e98091115f8b649bb9464f6697741c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
